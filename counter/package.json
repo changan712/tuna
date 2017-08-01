@@ -1,13 +1,13 @@
 {
-  "name": "tuna",
+  "name": "counter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "rdux": "^0.1.5",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.0",
+    "react-dom": "^15.5.0",
     "react-redux": "^5.0.5",
-    "react-scripts": "1.0.10"
+    "redux": "^3.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
