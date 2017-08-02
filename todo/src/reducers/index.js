@@ -9,4 +9,7 @@ const todoApp = combineReducers({
 });
 
 
+console.log(todoApp);
+
+
 export default todoApp
